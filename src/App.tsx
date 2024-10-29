@@ -1,8 +1,14 @@
 import React from 'react';
+import ComponenteExemplo from './ComponenteExemplo';
 
-function App() {
+function App() { //Componente
   return (
-    <h1>Primeiro app em React!</h1>
+    <div>
+      <ComponenteExemplo></ComponenteExemplo>  
+      <ComponenteExemplo></ComponenteExemplo>
+      <ComponenteExemplo></ComponenteExemplo><ComponenteExemplo></ComponenteExemplo>
+      <button>Start</button>
+    </div>
   );
 }
 
