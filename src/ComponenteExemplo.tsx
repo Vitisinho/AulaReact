@@ -1,5 +1,5 @@
 //Regras para criação de um novo compnente
-//1 - A primeira letra do componente deve ser maiúscula
+//1 - A primeira letra do componente DEVE ser maiúscula
 //2 - O componente DEVE ser uma função
 //3 - O componente DEVE retornar APENAS UM elemento HTML
 //4 - Exportar o componente

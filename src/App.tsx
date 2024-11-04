@@ -4,8 +4,7 @@ import ConsultarCep from './ConsultarCep';
 
 function App() { //Componente
   return (
-    <div>
-      <ComponenteExemplo></ComponenteExemplo>
+    <div id="app">
       <ConsultarCep></ConsultarCep>
     </div>
   );
